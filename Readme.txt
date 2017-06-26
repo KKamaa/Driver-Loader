@@ -54,6 +54,15 @@ The code will be made portable.For more information try
 http://doc.qt.io/qt-5/windows-deployment.html
 
 
+
+
+Issues
+---------------------------------------------------------------------
+(+) The Driver loader Process and Services code print data per line
+    making alignment ugly. To be fixed later on. 
+(+) Resizing issues. Also to be fixed.  
+
+
 Disabling Driver signature Enforcement
 ---------------------------------------------------------------------
 To disable in windows 7 follow the below steps
