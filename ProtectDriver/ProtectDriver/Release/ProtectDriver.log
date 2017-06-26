@@ -1,0 +1,21 @@
+﻿  Building 'ProtectDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Release\ProtectDriver.inf [Version] section with DriverVer=06/19/2017,18.0.2.270
+  ProtectDriver.vcxproj -> C:\Users\kev\Documents\Visual Studio 2015\Projects\ProtectDriver\Release\ProtectDriver.sys
+  ProtectDriver.vcxproj -> C:\Users\kev\Documents\Visual Studio 2015\Projects\ProtectDriver\Release\ProtectDriver.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kev\Documents\Visual Studio 2015\Projects\ProtectDriver\Release\ProtectDriver.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\kev\Documents\Visual Studio 2015\Projects\ProtectDriver\Release\ProtectDriver\protectdriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\kev\Documents\Visual Studio 2015\Projects\ProtectDriver\Release\ProtectDriver\protectdriver.cat
+  
